@@ -28,6 +28,11 @@
 
 ## ✅ Free & legal substitutes for this subject
 
+- **📚 Check Internet Archive / Open Library first (free legal borrowing)** — Many titles are borrowable free via Controlled Digital Lending — incl. Kothari & Nagrath's *Modern Power System Analysis 4e*. Search the title, then open the specific edition; older editions are usually the borrowable ones.
+  <https://openlibrary.org/search>
+  → Full guide: `00-Start-Here/LEGAL-FREE-ACCESS.md`
+- **🇮🇳 NDLI — National Digital Library of India (free for every Indian student)** — Built by IIT Kharagpur, Ministry of Education. Best free source for Indian-published titles (Bimbhra, Sawhney, Kanodia, Rajput, J.B. Gupta) and the only route to nationally-licensed content.
+  <https://ndl.iitkgp.ac.in>
 - **NPTEL — Electrical Machines I & II** — IIT Kharagpur / IIT Delhi. Full video lectures + downloadable PDF notes covering DC machines, transformers, induction & synchronous machines.
   <https://nptel.ac.in/courses>
 - **Kostenko & Piotrovsky — *Electrical Machines*, Parts 1 & 2 (1955/1962)** — Complete university textbook, Foreign Languages Publishing House. Free full-text scan on Internet Archive. Covers DC machines, transformers, AC machine theory, synchronous & induction machines.

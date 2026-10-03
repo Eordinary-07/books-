@@ -24,6 +24,11 @@
 
 ## ✅ Free & legal substitutes for this subject
 
+- **📚 Check Internet Archive / Open Library first (free legal borrowing)** — Many titles are borrowable free via Controlled Digital Lending — incl. Kothari & Nagrath's *Modern Power System Analysis 4e*. Search the title, then open the specific edition; older editions are usually the borrowable ones.
+  <https://openlibrary.org/search>
+  → Full guide: `00-Start-Here/LEGAL-FREE-ACCESS.md`
+- **🇮🇳 NDLI — National Digital Library of India (free for every Indian student)** — Built by IIT Kharagpur, Ministry of Education. Best free source for Indian-published titles (Bimbhra, Sawhney, Kanodia, Rajput, J.B. Gupta) and the only route to nationally-licensed content.
+  <https://ndl.iitkgp.ac.in>
 - ***Lessons In Electric Circuits* Vol 1 (DC) and Vol 2 (AC) — IN THIS REPO ✅** — 1,131 pages combined, fully worked, no calculus prerequisite. Vol 1: Ohm's law, series/parallel, network theorems, DC metering. Vol 2: AC waveforms, reactance, impedance, resonance, filters, transformers, polyphase. This is your free Alexander & Sadiku substitute for theory.
   `00-Common-Library/Lessons-in-Electric-Circuits/`
 - **James M. Fiore — *DC Electrical Circuit Analysis* and *AC Electrical Circuit Analysis*** — Two free, properly-typeset open textbooks (CC BY-SA) from Milne Publishing, with worked examples and end-of-chapter problems — closer in structure to a standard engineering circuit text.

@@ -24,6 +24,11 @@
 
 ## ✅ Free & legal substitutes for this subject
 
+- **📚 Check Internet Archive / Open Library first (free legal borrowing)** — Many titles are borrowable free via Controlled Digital Lending — incl. Kothari & Nagrath's *Modern Power System Analysis 4e*. Search the title, then open the specific edition; older editions are usually the borrowable ones.
+  <https://openlibrary.org/search>
+  → Full guide: `00-Start-Here/LEGAL-FREE-ACCESS.md`
+- **🇮🇳 NDLI — National Digital Library of India (free for every Indian student)** — Built by IIT Kharagpur, Ministry of Education. Best free source for Indian-published titles (Bimbhra, Sawhney, Kanodia, Rajput, J.B. Gupta) and the only route to nationally-licensed content.
+  <https://ndl.iitkgp.ac.in>
 - ***Lessons In Electric Circuits* Vol 3 — Semiconductors (IN THIS REPO ✅)** — 535 pages: diodes, rectifiers, bipolar transistors, JFETs/MOSFETs, amplifiers, op-amps, active filters, oscillators, and power circuits — all explained from first principles with worked examples.
   `00-Common-Library/Lessons-in-Electric-Circuits/LEC-Vol3-Semiconductors.pdf`
 - **Texas Instruments — *Op Amps for Everyone*** — Free, complete, authoritative PDF from TI. Covers ideal op-amp theory through real-world design and filter synthesis.

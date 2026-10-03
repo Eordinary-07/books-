@@ -23,6 +23,11 @@
 
 ## ✅ Free & legal substitutes for this subject
 
+- **📚 Check Internet Archive / Open Library first (free legal borrowing)** — Many titles are borrowable free via Controlled Digital Lending — incl. Kothari & Nagrath's *Modern Power System Analysis 4e*. Search the title, then open the specific edition; older editions are usually the borrowable ones.
+  <https://openlibrary.org/search>
+  → Full guide: `00-Start-Here/LEGAL-FREE-ACCESS.md`
+- **🇮🇳 NDLI — National Digital Library of India (free for every Indian student)** — Built by IIT Kharagpur, Ministry of Education. Best free source for Indian-published titles (Bimbhra, Sawhney, Kanodia, Rajput, J.B. Gupta) and the only route to nationally-licensed content.
+  <https://ndl.iitkgp.ac.in>
 - **OpenStax — *University Physics Volume 2* (Electricity & Magnetism)** — Full peer-reviewed open textbook (CC BY), free PDF. Covers electrostatics, Gauss's law, capacitance, magnetostatics, Ampere/Faraday, inductance and Maxwell's equations — i.e. the whole GATE EE EMT syllabus.
   <https://openstax.org/details/books/university-physics-volume-2>
 - **Steven W. Ellingson — *Electromagnetics, Volumes 1 & 2*** — Free open textbook (CC BY-SA) from Virginia Tech. Vol 1 = electrostatics & magnetostatics; Vol 2 = waves, transmission lines, radiation. Written specifically for electrical engineers.

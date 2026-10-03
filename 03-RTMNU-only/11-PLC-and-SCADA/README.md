@@ -20,6 +20,11 @@
 
 ## ✅ Free & legal substitutes for this subject
 
+- **📚 Check Internet Archive / Open Library first (free legal borrowing)** — Many titles are borrowable free via Controlled Digital Lending — incl. Kothari & Nagrath's *Modern Power System Analysis 4e*. Search the title, then open the specific edition; older editions are usually the borrowable ones.
+  <https://openlibrary.org/search>
+  → Full guide: `00-Start-Here/LEGAL-FREE-ACCESS.md`
+- **🇮🇳 NDLI — National Digital Library of India (free for every Indian student)** — Built by IIT Kharagpur, Ministry of Education. Best free source for Indian-published titles (Bimbhra, Sawhney, Kanodia, Rajput, J.B. Gupta) and the only route to nationally-licensed content.
+  <https://ndl.iitkgp.ac.in>
 - **Hugh Jack — *Automating Manufacturing Systems with PLCs*** — Free, complete, well-regarded textbook (CC BY-NC-SA) covering PLC hardware, ladder logic, timers/counters, PID and industrial networks. The standard free substitute for Bolton.
   <https://www.hughjack.com/automating-manufacturing-systems-with-plcs/>
 - **NPTEL — Industrial Automation and Control (IIT Kharagpur)** — Free full course covering PLCs, SCADA, DCS, HMI and industrial networking. Arguably better structured than the prescribed books.

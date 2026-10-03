@@ -20,6 +20,11 @@
 
 ## ✅ Free & legal substitutes for this subject
 
+- **📚 Check Internet Archive / Open Library first (free legal borrowing)** — Many titles are borrowable free via Controlled Digital Lending — incl. Kothari & Nagrath's *Modern Power System Analysis 4e*. Search the title, then open the specific edition; older editions are usually the borrowable ones.
+  <https://openlibrary.org/search>
+  → Full guide: `00-Start-Here/LEGAL-FREE-ACCESS.md`
+- **🇮🇳 NDLI — National Digital Library of India (free for every Indian student)** — Built by IIT Kharagpur, Ministry of Education. Best free source for Indian-published titles (Bimbhra, Sawhney, Kanodia, Rajput, J.B. Gupta) and the only route to nationally-licensed content.
+  <https://ndl.iitkgp.ac.in>
 - **NPTEL — Utilization of Electrical Energy / Electric Traction / Illumination Engineering** — Free video + notes covering traction, heating/welding, illumination and electroplating — the standard RTMNU utilization syllabus.
   <https://archive.nptel.ac.in/courses/108/>
 - ***Lessons In Electric Circuits* Vol 2 — AC (in this repo)** — AC motors, power factor and polyphase fundamentals that the utilization course builds on.

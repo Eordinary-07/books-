@@ -19,6 +19,11 @@
 
 ## ✅ Free & legal substitutes for this subject
 
+- **📚 Check Internet Archive / Open Library first (free legal borrowing)** — Many titles are borrowable free via Controlled Digital Lending — incl. Kothari & Nagrath's *Modern Power System Analysis 4e*. Search the title, then open the specific edition; older editions are usually the borrowable ones.
+  <https://openlibrary.org/search>
+  → Full guide: `00-Start-Here/LEGAL-FREE-ACCESS.md`
+- **🇮🇳 NDLI — National Digital Library of India (free for every Indian student)** — Built by IIT Kharagpur, Ministry of Education. Best free source for Indian-published titles (Bimbhra, Sawhney, Kanodia, Rajput, J.B. Gupta) and the only route to nationally-licensed content.
+  <https://ndl.iitkgp.ac.in>
 - **Physical Modeling in MATLAB — Allen B. Downey (IN THIS REPO ✅)** — Free (CC BY-NC). Builds MATLAB skill through actual physical simulation — exactly the 'Simulation' half of your course.
   `free-books/physical_modeling_matlab.pdf`
 - **Think Python — Allen B. Downey (IN THIS REPO ✅)** — Free (CC BY-NC). Strengthens the 'Programming Techniques' half — loops, functions, arrays, files, debugging.

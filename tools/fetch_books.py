@@ -61,6 +61,18 @@ DOWNLOADS = [
 #   (subject_no, title, what it is, url)
 # ---------------------------------------------------------------------------
 LINKS = [
+    ("00", "\U0001F4DA Internet Archive / Open Library \u2014 search any title",
+     "Free legal borrowing via Controlled Digital Lending. Availability is per-edition; older editions are often the borrowable ones.",
+     "https://openlibrary.org/search"),
+    ("00", "\U0001F1EE\U0001F1F3 NDLI \u2014 National Digital Library of India",
+     "Free for all Indian students (IIT Kharagpur / Ministry of Education). Best source for Indian-published titles.",
+     "https://ndl.iitkgp.ac.in"),
+    ("00", "Charles Steinmetz Collection \u2014 public domain, free full download",
+     "Theory and Calculation of AC Phenomena; Transient Electric Phenomena and Oscillations; Electric Circuits.",
+     "https://archive.org/details/charles-steinmetz-collection"),
+    ("00", "FOSSEE / Scilab Textbook Companions (IIT Bombay)",
+     "Free, legal chapter-by-chapter companion code and notes for standard textbooks.",
+     "https://scilab.in/textbook-companion"),
     ("01", "NPTEL — Electrical Machines I & II",
      "IIT video lectures + PDF notes: DC machines, transformers, induction, synchronous.",
      "https://nptel.ac.in/courses"),

@@ -28,6 +28,11 @@
 
 ## ✅ Free & legal substitutes for this subject
 
+- **📚 Check Internet Archive / Open Library first (free legal borrowing)** — Many titles are borrowable free via Controlled Digital Lending — incl. Kothari & Nagrath's *Modern Power System Analysis 4e*. Search the title, then open the specific edition; older editions are usually the borrowable ones.
+  <https://openlibrary.org/search>
+  → Full guide: `00-Start-Here/LEGAL-FREE-ACCESS.md`
+- **🇮🇳 NDLI — National Digital Library of India (free for every Indian student)** — Built by IIT Kharagpur, Ministry of Education. Best free source for Indian-published titles (Bimbhra, Sawhney, Kanodia, Rajput, J.B. Gupta) and the only route to nationally-licensed content.
+  <https://ndl.iitkgp.ac.in>
 - **MIT OCW 6.061 — Introduction to Electric Power Systems** — Full MIT course: lecture notes, assignments, exams. Covers transmission lines, load flow, faults, stability.
   <https://ocw.mit.edu/courses/6-061-introduction-to-electric-power-systems-spring-2011/>
 - **NPTEL — Power System Analysis / Power System Engineering / Power System Stability** — IIT courses with PDF notes + video. Search the EE discipline list.

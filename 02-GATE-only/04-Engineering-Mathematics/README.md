@@ -24,6 +24,11 @@
 
 ## ✅ Free & legal substitutes for this subject
 
+- **📚 Check Internet Archive / Open Library first (free legal borrowing)** — Many titles are borrowable free via Controlled Digital Lending — incl. Kothari & Nagrath's *Modern Power System Analysis 4e*. Search the title, then open the specific edition; older editions are usually the borrowable ones.
+  <https://openlibrary.org/search>
+  → Full guide: `00-Start-Here/LEGAL-FREE-ACCESS.md`
+- **🇮🇳 NDLI — National Digital Library of India (free for every Indian student)** — Built by IIT Kharagpur, Ministry of Education. Best free source for Indian-published titles (Bimbhra, Sawhney, Kanodia, Rajput, J.B. Gupta) and the only route to nationally-licensed content.
+  <https://ndl.iitkgp.ac.in>
 - **Jiří Lebl — *Notes on Diffy Qs: Differential Equations for Engineers*** — Full free textbook (CC BY-NC-SA). ODEs, Laplace transforms, Fourier series, systems — squarely in the GATE maths syllabus.
   <https://www.jirilebl.github.io/diffyqs/>
 - **Sergei Treil — *Linear Algebra Done Wrong*** — Free full textbook from Brown University. Excellent for the Linear Algebra portion (matrices, eigenvalues, rank).

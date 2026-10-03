@@ -24,6 +24,11 @@
 
 ## ✅ Free & legal substitutes for this subject
 
+- **📚 Check Internet Archive / Open Library first (free legal borrowing)** — Many titles are borrowable free via Controlled Digital Lending — incl. Kothari & Nagrath's *Modern Power System Analysis 4e*. Search the title, then open the specific edition; older editions are usually the borrowable ones.
+  <https://openlibrary.org/search>
+  → Full guide: `00-Start-Here/LEGAL-FREE-ACCESS.md`
+- **🇮🇳 NDLI — National Digital Library of India (free for every Indian student)** — Built by IIT Kharagpur, Ministry of Education. Best free source for Indian-published titles (Bimbhra, Sawhney, Kanodia, Rajput, J.B. Gupta) and the only route to nationally-licensed content.
+  <https://ndl.iitkgp.ac.in>
 - ***Lessons In Electric Circuits* Vol 4 — Digital (IN THIS REPO ✅)** — 516 pages covering number systems, logic gates, Boolean algebra, Karnaugh mapping, combinational & sequential circuits, counters, shift registers, memory, ADCs/DACs, and logic families. This is the closest free equivalent to your Digital Electronics syllabus.
   `00-Common-Library/Lessons-in-Electric-Circuits/LEC-Vol4-Digital.pdf`
 - ***Digital Circuit Projects* — An Overview of Digital Circuits Through Implementing Integrated Circuits** — Free open textbook (CC BY). Hands-on lab companion — good for the practical/experiment side.

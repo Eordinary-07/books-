@@ -22,6 +22,7 @@ Books are organised exactly the way you grouped them: **dual-purpose (RTMNU + GA
 |---|---|
 | Know how to use this library | [`00-Start-Here/README.md`](00-Start-Here/README.md) |
 | Understand the copyright situation | [`00-Start-Here/WHY-NOT-EVERY-BOOK.md`](00-Start-Here/WHY-NOT-EVERY-BOOK.md) |
+| **Read these books free & legally (Internet Archive, NDLI)** | [`00-Start-Here/LEGAL-FREE-ACCESS.md`](00-Start-Here/LEGAL-FREE-ACCESS.md) |
 | See every book on my list in one table | [`catalog.csv`](catalog.csv) |
 | Download the rest of the free books | run `python3 tools/fetch_books.py` on your own machine |
 | Find the 6 free books already here | [`00-Common-Library/`](00-Common-Library/) |
@@ -116,6 +117,25 @@ This library was assembled inside a sandbox whose network egress was restricted 
 python3 tools/fetch_books.py            # downloads every free GitHub-hosted book
 python3 tools/fetch_books.py --links    # prints the full curated free-resource list
 ```
+
+---
+
+## 🔓 Reading the rest for free — legally
+
+Almost nothing on your list needs to be bought or pirated. See
+[`00-Start-Here/LEGAL-FREE-ACCESS.md`](00-Start-Here/LEGAL-FREE-ACCESS.md) for the full map. The highlights:
+
+| Route | What it gets you | Cost |
+|---|---|---|
+| 🔵 **Internet Archive / Open Library** | Free legal *borrowing* (Controlled Digital Lending, 1 h or 14 days) — incl. **Kothari & Nagrath, Modern Power System Analysis 4e** and **Hayt & Buck, Engineering Electromagnetics (3rd/4th ed)** | ₹0 |
+| 🟢 **Public domain** | Steinmetz's *Alternating Current Phenomena*, *Transient Electric Phenomena*, *Electric Circuits* — free outright download | ₹0 |
+| 🇮🇳 **NDLI** (IIT Kharagpur) | Free for Indian students; best source for Indian-published titles — Bimbhra, Sawhney, Kanodia, Rajput | ₹0 |
+| 🟢 **NPTEL / MIT OCW / OpenStax** | Full free courses covering every subject on your list | ₹0 |
+
+> ⚠️ About PDF Coffee / PDF Drive / LibGen: those host unauthorised scans of in-copyright
+> textbooks. They're also a routine malware vector and often the wrong edition or truncated.
+> The routes above cover the same books legally — and **older editions are usually the
+> borrowable ones**, which is exactly the fallback you asked for.
 
 ---
 
