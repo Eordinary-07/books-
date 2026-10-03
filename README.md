@@ -24,6 +24,7 @@ Books are organised exactly the way you grouped them: **dual-purpose (RTMNU + GA
 | Understand the copyright situation | [`00-Start-Here/WHY-NOT-EVERY-BOOK.md`](00-Start-Here/WHY-NOT-EVERY-BOOK.md) |
 | **Read these books free & legally (Internet Archive, NDLI)** | [`00-Start-Here/LEGAL-FREE-ACCESS.md`](00-Start-Here/LEGAL-FREE-ACCESS.md) |
 | See every book on my list in one table | [`catalog.csv`](catalog.csv) |
+| **See exactly what I got vs. didn't** | [`00-Start-Here/WHAT-I-HAVE-AND-WHAT-I-DONT.md`](00-Start-Here/WHAT-I-HAVE-AND-WHAT-I-DONT.md) |
 | Download the rest of the free books | run `python3 tools/fetch_books.py` on your own machine |
 | Find the 6 free books already here | [`00-Common-Library/`](00-Common-Library/) |
 
